@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RC COMMUNICATION</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 16px;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .service {
+            background: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .service h2 {
+            margin-top: 0;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        footer {
+            background: #000;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .call-btn {
+            display: inline-block;
+            padding: 12px 20px;
+            background: #ff6600;
+            color: white;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RC COMMUNICATION</h1>
+        <p>Best CCTV & Security Solutions in Town</p>
+    </header><section>
+    <div class="service">
+        <h2>Our Services</h2>
+        <p>We provide top-notch CCTV camera installation and maintenance with high-quality equipment. Our team ensures the safety of your home, office, and valuables. Customer satisfaction is our priority!</p>
+        <img src="https://images.unsplash.com/photo-1589391886645-d51941cfa8cf" alt="CCTV Camera">
+    </div>
+
+    <div class="service">
+        <h2>Why Choose Us?</h2>
+        <ul>
+            <li>High-quality cameras</li>
+            <li>Affordable packages</li>
+            <li>24/7 customer support</li>
+            <li>Secure and reliable installation</li>
+        </ul>
+    </div>
+
+    <div class="service">
+        <h2>Contact Us</h2>
+        <p>📞 Phone: <a href="tel:9242999468">9242999468</a></p>
+        <p>📍 Location: Belgaum, Karnataka</p>
+    </div>
+</section>
+
+<footer>
+    <a class="call-btn" href="tel:9242999468">📞 Call Now</a>
+</footer>
+
+</body>
+</html>
